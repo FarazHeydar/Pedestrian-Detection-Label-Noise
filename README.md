@@ -21,7 +21,7 @@ CityPerson Dataset:
 
 ## Acknowledgements
 This implementation is based on the YOLOv7 framework. We thank the authors for their open-source contribution.
-- **Original YOLOv7 Repository:** [https://github.com/WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
+- **Original YOLOv7 Repository:** [https://github.com/WongKinYiu/yolov7]
 
 ## Usage
 1. Open the Colab notebook linked above.
