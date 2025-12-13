@@ -20,7 +20,7 @@ CityPerson Dataset:
 - **Description:** The CityPersons dataset is specifically designed for pedestrian detection. It consists of **5,000 images** (2,975 for training, 500 for validation, and 1,525 for testing) recorded in street scenes across 50 different cities. The dataset provides high-quality bounding box annotations for pedestrian classes (pedestrian, rider, sitting person, etc.) and covers various occlusion levels and pose variations.
 
 ## Acknowledgements
-This implementation is based on the [YOLOv7](https://github.com/WongKinYiu/yolov7) framework. We thank the authors for their open-source contribution.
+This implementation is based on the YOLOv7 framework. We thank the authors for their open-source contribution.
 - **Original YOLOv7 Repository:** [https://github.com/WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7)
 
 ## Usage
