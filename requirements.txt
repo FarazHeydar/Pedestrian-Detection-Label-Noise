@@ -1,0 +1,19 @@
+# Core Data Science & Visualization
+numpy>=1.18.5
+pandas
+matplotlib
+scipy
+tqdm
+seaborn
+
+# Data Downloading
+kagglehub
+
+# Deep Learning (YOLOv7 dependencies)
+torch>=1.7.0
+torchvision>=0.8.1
+opencv-python
+Pillow
+PyYAML
+requests
+tensorboard
