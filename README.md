@@ -11,17 +11,17 @@ Click the badge below to run the code directly in your browser without any setup
 The dataset used in this paper is available at:
 
 Custom Dataset:
-- **Link:** [https://drive.google.com/file/d/1PUtxnGw6LzSpo6MCrkJUw8ZRPPqZ7D3H/view?usp=drive_link]
+- **Link:** https://drive.google.com/file/d/1PUtxnGw6LzSpo6MCrkJUw8ZRPPqZ7D3H/view?usp=drive_link
 - **Description:** This is a custom-collected dataset used to supplement the primary training data. It contains **267** images. The data was collected using **local environ- ments (Thunder Bay, Canada) and targeted web scrap-ing** and is annotated for **pedestrians**.
 
 CityPerson Dataset:
-- **CityscapeLink:** [https://www.kaggle.com/datasets/kavithak1388/cityscapes]
-- **CityPersonsAnnotationsLink:** [https://www.kaggle.com/datasets/wildred/city-persons-annotations]
+- **CityscapeLink:** https://www.kaggle.com/datasets/kavithak1388/cityscapes
+- **CityPersonsAnnotationsLink:** https://www.kaggle.com/datasets/wildred/city-persons-annotations
 - **Description:** The CityPersons dataset is specifically designed for pedestrian detection. It consists of **5,000 images** (2,975 for training, 500 for validation, and 1,525 for testing) recorded in street scenes across 50 different cities. The dataset provides high-quality bounding box annotations for pedestrian classes (pedestrian, rider, sitting person, etc.) and covers various occlusion levels and pose variations.
 
 ## Acknowledgements
 This implementation is based on the YOLOv7 framework. We thank the authors for their open-source contribution.
-- **Original YOLOv7 Repository:** [https://github.com/WongKinYiu/yolov7]
+- **Original YOLOv7 Repository:** https://github.com/WongKinYiu/yolov7
 
 ## Usage
 1. Open the Colab notebook linked above.
